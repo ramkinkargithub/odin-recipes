@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+img{
+    height: auto;
+    width: 400px;
+}
+
+ol,ul{
+    background-color: aquamarine;
+}
